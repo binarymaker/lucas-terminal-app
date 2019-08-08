@@ -1,4 +1,4 @@
-Small Makefile based app for display ASCII logo in linux terimal startup
+Small Makefile based app for display ASCII logo in linux terminal startup
 
 # Installation
 
